@@ -1,4 +1,4 @@
-Olá, mundo! Eu sou [Seu Nome]
+Olá, mundo! Eu sou Gustavo Santos.
 
 Seja bem-vindo ao meu universo digital acadêmico! 
 Este repositório é meu espaço de aprendizado, criação e evolução no mundo da tecnologia — onde cada arquivo conta uma história de estudo, esforço e crescimento.  
